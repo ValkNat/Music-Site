@@ -1,0 +1,28 @@
+body {
+  background-image: url(citygif.gif);
+
+}
+
+.login h3 {
+
+  color: white;
+  font-family: "League Spartan";
+
+}
+
+
+.login-form {
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 175px;
+}
+
+.login {
+  height: 25%;
+}
+
+.input-box {
+  color: white;
+  font-family: "League Spartan";
+}

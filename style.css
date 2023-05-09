@@ -1,0 +1,60 @@
+
+.navigation {
+  text-decoration: none;
+  margin-left: 70%;
+  height: 40px;
+  padding-left: 60px;
+  margin-top: 20px;
+}
+
+.navigation a{
+  padding: 5px;
+  border: solid white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-family: 'League Spartan';
+  color: white;
+}
+
+.navigation a:hover {
+  background-color: white;
+  color: green;
+}
+
+.modern-center {
+  font-family: 'League Spartan';
+  color: white;
+  font-size: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+.modern-center h1 {
+
+  vertical-align: middle;
+  margin-top: 250px;
+  border: solid white;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 20px;
+
+}
+
+.music {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.modern-center h3 {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+body {
+  background-image: url(citygif.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
